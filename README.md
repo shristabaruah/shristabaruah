@@ -10,8 +10,9 @@
 - 🌱 I’m currently learning **Reactjs**
 - 👀 Currently working on some of my cool side projects based on Web Development
 - 🤔 I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-- 💬 Ask me about :**tech movies series**
+- 💬 Ask me about anything especially **tech movies series**
 - 🌐 Updating my portfolio with examples of my work on <a href="https://shrista-site.netlify.app/">My Portfolio</a>
 
 ### ✨Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/shristabaruah/shristabaruah.svg?cache=remove)](#)
+⭐️ From [shristabaruah](https://github.com/shristabaruah)
